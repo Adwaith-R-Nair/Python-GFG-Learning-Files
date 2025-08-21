@@ -1,0 +1,5 @@
+Hello EveryoneHello Everyone
+Hello Everyone
+Hello All, I am hoping that you are doing well as always!.
+Today we are about to discuss about File Handling.
+It's going to be used when you want to save your data permanently.
